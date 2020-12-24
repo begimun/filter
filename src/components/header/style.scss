@@ -1,0 +1,21 @@
+.header{
+   padding: 20px;
+   font-family: sans-serif;
+    &__row{
+         display: flex;
+         align-items: center;
+         justify-content: space-between;
+    }
+    ul{
+        display: flex;
+        list-style: none;
+        li{
+            margin-left: 15px;
+            a{
+                text-decoration: none;
+                color: #222;
+            }
+        }
+    }
+
+}
