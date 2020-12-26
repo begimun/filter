@@ -23,3 +23,5 @@ return (
             </button>
     </section>
 )
+
+export default Manage;
